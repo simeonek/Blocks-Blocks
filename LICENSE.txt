@@ -1,0 +1,67 @@
+Blocks & Blocks
+Copyright (c) 2026 Simeonek
+
+ALL RIGHTS RESERVED
+
+
+1. COPYRIGHT AND RESTRICTIONS
+
+This project, including its original source code, original models, textures,
+sounds, assets, documentation, and other original content created for
+Blocks & Blocks, is protected by copyright.
+
+No permission is granted to copy, modify, redistribute, re-upload, publish,
+sell, sublicense, or create derivative works from the original content of
+Blocks & Blocks without explicit written permission from the copyright holder.
+
+You may download and use the mod for personal gameplay purposes.
+
+Any permission not explicitly granted by this license is reserved by the
+copyright holder.
+
+
+2. AI-ASSISTED DEVELOPMENT
+
+Parts of the source code of Blocks & Blocks were created or modified with
+the assistance of artificial intelligence (AI) tools.
+
+AI assistance does not grant any additional rights to the project or its
+contents. The project remains subject to the terms stated in this license
+and to any applicable third-party licenses.
+
+
+3. MINECRAFT-RELATED ASSETS
+
+Some textures, models, visual elements, or other assets used by Blocks & Blocks
+may be based on, derived from, or adapted from assets originating from
+Minecraft.
+
+Such Minecraft-related assets are NOT claimed as original intellectual
+property of the Blocks & Blocks copyright holder.
+
+All rights to Minecraft and its original assets remain with their respective
+copyright holders.
+
+This license applies only to content for which the Blocks & Blocks copyright
+holder has the right to grant these permissions.
+
+
+4. THIRD-PARTY SOFTWARE AND CONTENT
+
+Blocks & Blocks uses third-party software and APIs, including Fabric API.
+Such third-party software remains subject to its own licenses and terms.
+
+Blocks & Blocks may also use SM API, a project created and maintained by
+the Blocks & Blocks copyright holder. SM API is subject to its own licensing
+terms unless explicitly stated otherwise.
+
+Third-party licenses are not replaced or overridden by this license.
+
+
+5. PERMISSION
+
+Any permission not explicitly granted by this license is reserved by the
+copyright holder.
+
+For permission to use, modify, redistribute, or include Blocks & Blocks
+content in another project, contact the copyright holder.
