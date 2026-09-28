@@ -3,7 +3,6 @@ Copyright (c) 2026 Simeonek
 
 ALL RIGHTS RESERVED
 
-
 1. COPYRIGHT AND RESTRICTIONS
 
 This project, including its original source code, original models, textures,
@@ -14,11 +13,15 @@ No permission is granted to copy, modify, redistribute, re-upload, publish,
 sell, sublicense, or create derivative works from the original content of
 Blocks & Blocks without explicit written permission from the copyright holder.
 
+However, you are allowed to create and publish videos, streams, reviews,
+showcases, screenshots, and other content featuring or demonstrating
+Blocks & Blocks, including on platforms such as YouTube, Twitch, TikTok,
+and similar platforms.
+
 You may download and use the mod for personal gameplay purposes.
 
 Any permission not explicitly granted by this license is reserved by the
 copyright holder.
-
 
 2. AI-ASSISTED DEVELOPMENT
 
@@ -28,7 +31,6 @@ the assistance of artificial intelligence (AI) tools.
 AI assistance does not grant any additional rights to the project or its
 contents. The project remains subject to the terms stated in this license
 and to any applicable third-party licenses.
-
 
 3. MINECRAFT-RELATED ASSETS
 
@@ -45,7 +47,6 @@ copyright holders.
 This license applies only to content for which the Blocks & Blocks copyright
 holder has the right to grant these permissions.
 
-
 4. THIRD-PARTY SOFTWARE AND CONTENT
 
 Blocks & Blocks uses third-party software and APIs, including Fabric API.
@@ -56,7 +57,6 @@ the Blocks & Blocks copyright holder. SM API is subject to its own licensing
 terms unless explicitly stated otherwise.
 
 Third-party licenses are not replaced or overridden by this license.
-
 
 5. PERMISSION
 
