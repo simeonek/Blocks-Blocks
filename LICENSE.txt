@@ -1,67 +1,42 @@
-Blocks & Blocks
+Blocks & Blocks License
 Copyright (c) 2026 Simeonek
 
-ALL RIGHTS RESERVED
+1. GENERAL TERMS AND USAGE
 
-1. COPYRIGHT AND RESTRICTIONS
+You are permitted to download and use the Blocks & Blocks mod strictly for personal gameplay purposes.
 
-This project, including its original source code, original models, textures,
-sounds, assets, documentation, and other original content created for
-Blocks & Blocks, is protected by copyright.
+You are welcome to create and publish media content (including videos, live streams, and reviews on platforms such as YouTube or Twitch) featuring Blocks & Blocks, provided that:
+- You use the mod for personal gameplay/content creation purposes.
+- You provide a direct link to the official download page on Modrinth or CurseForge in your content's description.
 
-No permission is granted to copy, modify, redistribute, re-upload, publish,
-sell, sublicense, or create derivative works from the original content of
-Blocks & Blocks without explicit written permission from the copyright holder.
+Except as explicitly allowed above or by applicable third-party licenses, no permission is granted to redistribute, re-upload, sell, sublicense, or claim ownership of this project or its assets.
 
-However, you are allowed to create and publish videos, streams, reviews,
-showcases, screenshots, and other content featuring or demonstrating
-Blocks & Blocks, including on platforms such as YouTube, Twitch, TikTok,
-and similar platforms.
 
-You may download and use the mod for personal gameplay purposes.
+2. AI-GENERATED CODE
 
-Any permission not explicitly granted by this license is reserved by the
-copyright holder.
+The source code for Blocks & Blocks was generated entirely with the assistance of artificial intelligence (AI) tools. 
 
-2. AI-ASSISTED DEVELOPMENT
+As AI-generated output is not subject to traditional copyright protection under applicable laws, no copyright is claimed over the raw, unoriginal code itself. However, the project layout, assembly, and custom integrated assets remain governed by the overall terms of this document.
 
-Parts of the source code of Blocks & Blocks were created or modified with
-the assistance of artificial intelligence (AI) tools.
 
-AI assistance does not grant any additional rights to the project or its
-contents. The project remains subject to the terms stated in this license
-and to any applicable third-party licenses.
+3. MINECRAFT ASSETS AND TEXTURES
 
-3. MINECRAFT-RELATED ASSETS
+Certain textures and visual elements applied to models within Blocks & Blocks originate directly from Minecraft (Mojang Studios / Microsoft) and were not created by Simeonek.
 
-Some textures, models, visual elements, or other assets used by Blocks & Blocks
-may be based on, derived from, or adapted from assets originating from
-Minecraft.
+These textures and assets are NOT claimed as original intellectual property of Simeonek. All rights, title, and intellectual property regarding Minecraft and its stock assets remain exclusively with Mojang Studios / Microsoft. This license applies solely to original work and layout provided within the mod.
 
-Such Minecraft-related assets are NOT claimed as original intellectual
-property of the Blocks & Blocks copyright holder.
 
-All rights to Minecraft and its original assets remain with their respective
-copyright holders.
+4. THIRD-PARTY SOFTWARE AND DEPENDENCIES
 
-This license applies only to content for which the Blocks & Blocks copyright
-holder has the right to grant these permissions.
+Blocks & Blocks relies on third-party software, libraries, and APIs, including Fabric API. All such third-party components remain subject to their respective original licenses and terms.
 
-4. THIRD-PARTY SOFTWARE AND CONTENT
+Additionally, Blocks & Blocks utilizes SM API, a project maintained separately by Simeonek, which is governed by its own independent licensing terms unless explicitly stated otherwise.
 
-Blocks & Blocks uses third-party software and APIs, including Fabric API.
-Such third-party software remains subject to its own licenses and terms.
+This license does not override, replace, or modify any third-party license agreements.
 
-Blocks & Blocks may also use SM API, a project created and maintained by
-the Blocks & Blocks copyright holder. SM API is subject to its own licensing
-terms unless explicitly stated otherwise.
 
-Third-party licenses are not replaced or overridden by this license.
+5. RESERVATION OF RIGHTS AND CONTACT
 
-5. PERMISSION
+Any rights not explicitly granted in this license are strictly reserved.
 
-Any permission not explicitly granted by this license is reserved by the
-copyright holder.
-
-For permission to use, modify, redistribute, or include Blocks & Blocks
-content in another project, contact the copyright holder.
+For permission requests regarding custom usage, modification, or inclusion of Blocks & Blocks in external projects, please contact the project owner (Simeonek) at simeonek.gry@gmail.com.
